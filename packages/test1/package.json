@@ -1,12 +1,26 @@
 {
-  "name": "taoz1_test",
-  "version": "1.1.5",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "",
+  "name": "taoz1_itest1",
+  "version": "1.0.0",
+  "description": "> TODO: description",
+  "author": "Taoz1 <taoz110818@gmail.com>",
+  "homepage": "https://github.com/taozi0818/monorep-test#readme",
   "license": "ISC",
-  "gitHead": "931954c007da129401f542e7f9849b3cbf25bf01"
+  "main": "lib/test1.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/taozi0818/monorep-test.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/taozi0818/monorep-test/issues"
+  }
 }
