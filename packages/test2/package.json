@@ -1,0 +1,22 @@
+{
+  "name": "taoz1_itest2",
+  "version": "1.0.0",
+  "description": "> TODO: description",
+  "author": "Taoz1 <taoz110818@gmail.com>",
+  "homepage": "https://github.com/taozi0818/monorep-test#readme",
+  "license": "ISC",
+  "main": "index.js",
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/taozi0818/monorep-test.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/taozi0818/monorep-test/issues"
+  }
+}
